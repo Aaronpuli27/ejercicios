@@ -1,4 +1,4 @@
-package e2;
+package UDP.e2;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

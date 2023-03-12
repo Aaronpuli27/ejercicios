@@ -1,4 +1,4 @@
-package e2;
+package UDP.e2;
 
 public class SecretNum {
     /* Classe que genera numeros aleatoris per jugar a adivinar-los i els comprova
